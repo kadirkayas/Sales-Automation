@@ -1,0 +1,13 @@
+C:\Users\Kadir\Desktop\Sales Automation v.0.0.1\Sales Automation v.0.0.1\bin\Debug\Sales Automation v.0.0.1.exe.config
+C:\Users\Kadir\Desktop\Sales Automation v.0.0.1\Sales Automation v.0.0.1\bin\Debug\Sales Automation v.0.0.1.exe
+C:\Users\Kadir\Desktop\Sales Automation v.0.0.1\Sales Automation v.0.0.1\bin\Debug\Sales Automation v.0.0.1.pdb
+C:\Users\Kadir\Desktop\Sales Automation v.0.0.1\Sales Automation v.0.0.1\obj\Debug\Sales Automation v.0.0.3.csprojAssemblyReference.cache
+C:\Users\Kadir\Desktop\Sales Automation v.0.0.1\Sales Automation v.0.0.1\obj\Debug\Sales_Automation_v._0._0._1.Application.resources
+C:\Users\Kadir\Desktop\Sales Automation v.0.0.1\Sales Automation v.0.0.1\obj\Debug\Sales_Automation_v._0._0._1.Login.resources
+C:\Users\Kadir\Desktop\Sales Automation v.0.0.1\Sales Automation v.0.0.1\obj\Debug\Sales_Automation_v._0._0._1.OpenPage.resources
+C:\Users\Kadir\Desktop\Sales Automation v.0.0.1\Sales Automation v.0.0.1\obj\Debug\Sales_Automation_v._0._0._1.Properties.Resources.resources
+C:\Users\Kadir\Desktop\Sales Automation v.0.0.1\Sales Automation v.0.0.1\obj\Debug\Sales_Automation_v._0._0._1.Register.resources
+C:\Users\Kadir\Desktop\Sales Automation v.0.0.1\Sales Automation v.0.0.1\obj\Debug\Sales Automation v.0.0.3.csproj.GenerateResource.cache
+C:\Users\Kadir\Desktop\Sales Automation v.0.0.1\Sales Automation v.0.0.1\obj\Debug\Sales Automation v.0.0.1.exe
+C:\Users\Kadir\Desktop\Sales Automation v.0.0.1\Sales Automation v.0.0.1\obj\Debug\Sales Automation v.0.0.1.pdb
+C:\Users\Kadir\Desktop\Sales Automation v.0.0.1\Sales Automation v.0.0.1\obj\Debug\Sales_Automation_v._0._0._1.AdminPanel.resources

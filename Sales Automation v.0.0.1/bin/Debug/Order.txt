@@ -1,0 +1,29 @@
+ürün1+3+30+136,5+5,4+paymet metoth credit +kadir kayas+adress+76312893048732819083728912+7631289304873281+
+ürün2+2+20+91,0+3,6+paymet metoth credit +kadir kayas+adress+21313231231233213232131231+2131323123123321
+urun4+5+170+170+30,60+paymet metoth cash+kadir kayas+adress+
+urun1+2+68+24+12,24+paymet metoth cash+kadir kayas+adress+18.12.2019 00:18:27
+urun3+2+68+24+12,24+paymet metoth credit +kadir kayas+adress+3251543145111231+3/21+18.12.2019 00:20:34
+urun3+2+68+24+12,24+paymet metoth check +kadir kayas+adress+34323434312432143243421324+3432343431243214+18.12.2019 00:21:01
+urun2+1+34+12+6,12+paymet metoth cash+kadir kayas+adress+18.12.2019 00:51:49
+urun3+1+34+12+6,12+paymet metoth mized +kadir kayas+adress
+urun2+1+34+12+6,12+paymet metoth mized +kadir kayas+adress
+urun8+7+861+861+154,98+paymet metoth cash+kadir kayas+adress+18.12.2019 12:34:14
+urun8+7+861+861+154,98+paymet metoth credit +kadir kayas+adress+7546543233333234+2/25+18.12.2019 12:34:38
+urun3+3+102+36+18,36+paymet metoth cash+kadir kayas+adress+18.12.2019 20:54:35
+urun3+2+68+24+12,24+paymet metoth cash+kadir kayas+adress+18.12.2019 22:43:41
+urun4+13+442+442+79,56+paymet metoth credit +kadir kayas+adress+1323121321321321+2/21+21.12.2019 20:17:50
+urun3+3+102+36+18,36+paymet metoth credit +kadir kayas+adress+3211321321323132+2/22+21.12.2019 20:23:05
+urun3+4+136+48+24,48+paymet metoth cash+kadir kayas+adress+22.12.2019 15:15:51
+urun3+4+136+48+24,48+paymet metoth check +kadir kayas+adress+98465165647898898798797988+4844848444484849+22.12.2019 15:16:19
+urun3+4+136+48+24,48+paymet metoth credit +kadir kayas+adress+6884484888448844+5/25+22.12.2019 15:16:46
+urun4+1+34+34+6,12+kadir kayas+adress+23.12.2019 21:57:38+Paymet Metoth Cash
+urun3+2+68+24+12,24+kadir kayas+adress+23.12.2019 22:17:02+Paymet Metoth Cash
+urun3+2+68+24+12,24+kadir kayas+adress+23.12.2019 22:17:18+ Paymet Metoth Mixed
+urun8+2+246+246+44,28+kadir kayas+adress+23.12.2019 22:24:31+Paymet Metoth Cash
+urun2+2+68+24+12,24+kadir kayas+adress+23.12.2019 22:32:36+Paymet Metoth Cash
+urun4+2+68+68+12,24+kadir kayas+adress+24.12.2019 00:08:29+Paymet Metoth Cash
+urun4+6+204+144+73,44+kadir kayas+adress+29.12.2019 23:16:42+Paymet Metoth Cash
+urun6+2+68+48+24,48+kadir kayas+adress+30.12.2019 12:56:33+Paymet Metoth Cash
+urun5+1+34+12+6,12+kadir kayas+adress+30.12.2019 13:02:27+Paymet Metoth Cash
+urun5+2+68+48+24,48+kadir kayas+adress+30.12.2019 13:05:04+Paymet Metoth Cash
+urun2+10+340+480+244,80+kadir kayas+adress+30.12.2019 13:54:13+Paymet Metoth Cash
